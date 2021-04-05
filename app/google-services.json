@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132639237891",
+    "project_id": "inventory-1fc9d",
+    "storage_bucket": "inventory-1fc9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132639237891:android:44fed3db2272b9575c6b36",
+        "android_client_info": {
+          "package_name": "com.rlrtech.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132639237891-cjr683kkckbai3kl9jjgrdsi91j2sm96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClNqnkv30LE0vEdu5sKjdXqkydpsD-dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132639237891-cjr683kkckbai3kl9jjgrdsi91j2sm96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
